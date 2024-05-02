@@ -1,0 +1,2 @@
+src/Assets/hero-video.mp4 filter=lfs diff=lfs merge=lfs -text
+shine_light.webm filter=lfs diff=lfs merge=lfs -text
